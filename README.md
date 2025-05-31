@@ -1,1 +1,4 @@
-# V24K
+# V24K Godmode - Documentation
+
+## Setup Guide
+...

@@ -1,0 +1,1 @@
+# WhaleShadowSniper logic
